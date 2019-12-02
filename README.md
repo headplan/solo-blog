@@ -2,7 +2,7 @@
 小妖精
 </h2>
 
-<h4 align="center">平西王</h4>
+<h4 align="center">昌平第一狠人 沙河水库浪子 平西府南大门出入管理执行董事</h4>
 <p align="center"><a title="小妖精" target="_blank" href="https://github.com/headplan/solo-blog"><img src="https://img.shields.io/github/last-commit/headplan/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/headplan/solo-blog"><img src="https://img.shields.io/github/repo-size/headplan/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -11,7 +11,7 @@
 ### 最新
 
 * [我在 GitHub 上的开源项目](https://blog.lartisan.cn/my-github-repos)
-* [世界，你好！](https://blog.lartisan.cn/hello-solo)
+* [Leetcode.1.Two Sum 两数之和](https://blog.lartisan.cn/articles/2019/12/02/1575269297549.html)
 
 
 
